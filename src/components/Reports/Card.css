@@ -1,0 +1,12 @@
+.card:hover {
+    box-shadow: 0 0 15px rgba(33, 33, 33, 0.2);
+    /* transform: scale(1.01); */
+
+    /* transform: translateZ(0); */
+    /* transition-timing-function: ease-in-out; */
+}
+.card {
+    transition: all 0.2s;
+    /* backface-visibility: hidden; */
+    /* -webkit-font-smoothing: subpixel-antialiased; */
+}
